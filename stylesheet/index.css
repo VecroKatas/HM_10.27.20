@@ -1,0 +1,61 @@
+.paragraph_name{
+  font-size: x-large;
+}
+
+.paragraph_image{
+  height: 25px;
+}
+
+.green{
+  color: green;
+}
+
+.list{
+  margin: 20px;
+  border-collapse: collapse;
+  border-color: transparent rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) transparent;
+}
+
+.yellow{
+  color: rgb(199, 199, 0);
+}
+
+.product__image{
+  width: 200px;
+}
+
+.right{
+  text-align: right;
+}
+
+.description{
+  font-size: medium;
+
+}
+
+.old-price{
+  font-size: medium;
+  text-decoration: line-through;
+  color: lightslategray;
+}
+
+.actual-price{
+  font-size: x-large;
+  color: rgb(216, 86, 34);
+}
+
+.show-more_text{
+  color: blue;
+}
+
+.show-more{
+  background-color: white;
+  border-color: rgba(0, 0, 0, 0);
+  width: 200px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.xs{
+  font-size: .25em;
+}
