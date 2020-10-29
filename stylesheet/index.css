@@ -20,6 +20,10 @@
   color: rgb(199, 199, 0);
 }
 
+.white{
+ color: white;
+}
+
 .product__image{
   width: 200px;
 }
@@ -30,7 +34,6 @@
 
 .description{
   font-size: medium;
-
 }
 
 .old-price{
@@ -44,11 +47,15 @@
   color: rgb(216, 86, 34);
 }
 
-.show-more_text{
+.show-more{
+  visibility: hidden;
+}
+
+.show-more_button-text{
   color: blue;
 }
 
-.show-more{
+.show-more_button{
   background-color: white;
   border-color: rgba(0, 0, 0, 0);
   width: 200px;
@@ -58,4 +65,16 @@
 
 .xs{
   font-size: .25em;
+}
+
+.up{
+  background-color: rgb(0, 110, 255);
+  opacity: .5;
+  position: fixed;
+  right: 5px;
+  bottom: 5px;
+  border-color: rgba(0, 0, 0, 0);
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
 }
