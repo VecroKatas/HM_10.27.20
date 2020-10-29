@@ -1,0 +1,80 @@
+.paragraph_name{
+  font-size: x-large;
+}
+
+.paragraph_image{
+  height: 25px;
+}
+
+.green{
+  color: green;
+}
+
+.list{
+  margin: 20px;
+  border-collapse: collapse;
+  border-color: transparent rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) transparent;
+}
+
+.yellow{
+  color: rgb(199, 199, 0);
+}
+
+.white{
+ color: white;
+}
+
+.product__image{
+  width: 200px;
+}
+
+.right{
+  text-align: right;
+}
+
+.description{
+  font-size: medium;
+}
+
+.old-price{
+  font-size: medium;
+  text-decoration: line-through;
+  color: lightslategray;
+}
+
+.actual-price{
+  font-size: x-large;
+  color: rgb(216, 86, 34);
+}
+
+.show-more{
+  visibility: hidden;
+}
+
+.show-more_button-text{
+  color: blue;
+}
+
+.show-more_button{
+  background-color: white;
+  border-color: rgba(0, 0, 0, 0);
+  width: 200px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.xs{
+  font-size: .25em;
+}
+
+.up{
+  background-color: rgb(0, 110, 255);
+  opacity: .5;
+  position: fixed;
+  right: 5px;
+  bottom: 5px;
+  border-color: rgba(0, 0, 0, 0);
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+}
